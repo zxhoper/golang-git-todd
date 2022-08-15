@@ -1,9 +1,12 @@
 #+TITLE: ORG File
 
-Let me type something
+* Let me type something
 
-This is test.txt
+Get the title done.
 
-The second file.
+* Second title
+
+1) This is test.txt
+2) The second file.
 
 

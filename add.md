@@ -1,11 +1,22 @@
 
 # Table of Contents
 
+1.  [Let me type something](#orgfa37166)
+2.  [Second title](#org0904e63)
 
 
-Let me type something
 
-This is test.txt
+<a id="orgfa37166"></a>
 
-The second file.
+# Let me type something
+
+Get the title done.
+
+
+<a id="org0904e63"></a>
+
+# Second title
+
+1.  This is test.txt
+2.  The second file.
 
